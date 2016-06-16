@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LabelPlusM</string>
+
+    <string name="entry_command_settings">Settings</string>
+    <string name="entry_command_new_project">New Project</string>
+    <string name="entry_command_open_project">Open Project</string>
+    <string name="entry_command_continue_project">Continue Last Project</string>
+    <string name="workspace_command_navigat_previous">Prev</string>
+    <string name="workspace_command_navigat_next">Next</string>
+    <string name="workspace_editor_tips">Input Translation</string>
+    <string name="workspace_menu_remove">Remove</string>
+    <string name="settings_command_about">About</string>
+    <string name="settings_command_extra">Extra Tool</string>
+    <string name="file_chooser_empty_directory">Empty Directory</string>
+    <string name="file_chooser_storage_removed">Storage was removed or unmounted.</string>
+    <string name="file_chooser_choose_file">Select a file</string>
+    <string name="file_chooser_error_selecting_file">Error selecting File</string>
+    <string name="file_chooser_internal_storage">Internal storage</string>
+    <string name="file_chooser_title">Choose a file</string>
+    <string name="settings_command_help">About Parent Project</string>
+    <string name="extra_command_select_and_convert">Select and Convert</string>
+    <string name="extra_text_warning">This is only an experimental option.\nNo guarantee of identify quality.</string>
+    <string name="extra_text_title">Boader Identifier</string>
+    <string name="extra_text_help">Convert a.jpg to a_bi.jpg</string>
+    <string name="entry_text_warning">Cannot write to SD Card in Android 4.4+</string>
+    <string name="extra_toast_convert_success">Convert Success</string>
+    <string name="extra_toast_convert_fail">Convert Fail</string>
+    <string name="workspace_toast_first_page">This is first page</string>
+    <string name="workspace_toast_last_page">This is the last page</string>
+</resources>

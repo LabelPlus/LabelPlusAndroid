@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">标号器</string>
+    <string name="entry_command_settings">设置</string>
+    <string name="entry_command_new_project">新建项目</string>
+    <string name="entry_command_open_project">打开项目</string>
+    <string name="entry_command_continue_project">继续上一次项目</string>
+    <string name="workspace_command_navigat_previous">←</string>
+    <string name="workspace_command_navigat_next">→</string>
+    <string name="workspace_editor_tips">输入译文</string>
+    <string name="workspace_menu_remove">移除</string>
+    <string name="settings_command_about">关于</string>
+    <string name="settings_command_extra">附加功能</string>
+    <string name="file_chooser_choose_file">选择文件</string>
+    <string name="file_chooser_empty_directory">空目录</string>
+    <string name="file_chooser_error_selecting_file">文件选择出错</string>
+    <string name="file_chooser_internal_storage">内部存储</string>
+    <string name="file_chooser_storage_removed">存储器不存在</string>
+    <string name="file_chooser_title">选择一个文件</string>
+    <string name="settings_command_help">关于主项目</string>
+    <string name="extra_command_select_and_convert">选择并转换</string>
+    <string name="extra_text_warning">试验性功能，无法保证识别质量</string>
+    <string name="extra_text_title">边框识别器</string>
+    <string name="extra_text_help">将 a.jpg 转换为 a_bi.jpg</string>
+    <string name="entry_text_warning">无法在 Android 4.4 以上版本的系统中写入 SD 卡</string>
+    <string name="extra_toast_convert_success">转换成功</string>
+    <string name="extra_toast_convert_fail">转换失败</string>
+    <string name="workspace_toast_first_page">已经是第一页了</string>
+    <string name="workspace_toast_last_page">已经是最后一页了</string>
+</resources>
